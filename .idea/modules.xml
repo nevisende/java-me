@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/state-2/activity-assistant/activity-assistant.iml" filepath="$PROJECT_DIR$/state-2/activity-assistant/activity-assistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/advanced-calculator/advanced-calculator.iml" filepath="$PROJECT_DIR$/state-3/advanced-calculator/advanced-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/atm/atm.iml" filepath="$PROJECT_DIR$/state-3/atm/atm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stage-1/bmi-calculator/bmi-calculator.iml" filepath="$PROJECT_DIR$/stage-1/bmi-calculator/bmi-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stage-1/calculate-grade-averages/calculate-grade-averages.iml" filepath="$PROJECT_DIR$/stage-1/calculate-grade-averages/calculate-grade-averages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stage-1/calculate-hypotenuse/calculate-hypotenuse.iml" filepath="$PROJECT_DIR$/stage-1/calculate-hypotenuse/calculate-hypotenuse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-2/calculator/calculator.iml" filepath="$PROJECT_DIR$/state-2/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-2/chinese-zodiac-sign/chinese-zodiac-sign.iml" filepath="$PROJECT_DIR$/state-2/chinese-zodiac-sign/chinese-zodiac-sign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stage-1/circle-operations/circle-operations.iml" filepath="$PROJECT_DIR$/stage-1/circle-operations/circle-operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/ebob-ekok/ebob-ekok.iml" filepath="$PROJECT_DIR$/state-3/ebob-ekok/ebob-ekok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/exponential-number/exponential-number.iml" filepath="$PROJECT_DIR$/state-3/exponential-number/exponential-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/factorial/factorial.iml" filepath="$PROJECT_DIR$/state-3/factorial/factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/state-3/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-2/find-your-zodiac-sign/find-your-zodiac-sign.iml" filepath="$PROJECT_DIR$/state-2/find-your-zodiac-sign/find-your-zodiac-sign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-2/flight-ticket/flight-ticket.iml" filepath="$PROJECT_DIR$/state-2/flight-ticket/flight-ticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stage-1/greengrocery-billing/greengrocery-billing.iml" filepath="$PROJECT_DIR$/stage-1/greengrocery-billing/greengrocery-billing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/harmonic/harmonic.iml" filepath="$PROJECT_DIR$/state-3/harmonic/harmonic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/inverted-triangle/inverted-triangle.iml" filepath="$PROJECT_DIR$/state-3/inverted-triangle/inverted-triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-me.iml" filepath="$PROJECT_DIR$/.idea/java-me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-2/leap-year/leap-year.iml" filepath="$PROJECT_DIR$/state-2/leap-year/leap-year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-2/login/login.iml" filepath="$PROJECT_DIR$/state-2/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/min-max/min-max.iml" filepath="$PROJECT_DIR$/state-3/min-max/min-max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/palindrome/palindrome.iml" filepath="$PROJECT_DIR$/state-3/palindrome/palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-2/pass-class-status/pass-class-status.iml" filepath="$PROJECT_DIR$/state-2/pass-class-status/pass-class-status.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/pattern-method/pattern-method.iml" filepath="$PROJECT_DIR$/state-3/pattern-method/pattern-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/perfect-numbers/perfect-numbers.iml" filepath="$PROJECT_DIR$/state-3/perfect-numbers/perfect-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/prime-numbers/prime-numbers.iml" filepath="$PROJECT_DIR$/state-3/prime-numbers/prime-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/recursive-fibonacci/recursive-fibonacci.iml" filepath="$PROJECT_DIR$/state-3/recursive-fibonacci/recursive-fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/recursive-pow/recursive-pow.iml" filepath="$PROJECT_DIR$/state-3/recursive-pow/recursive-pow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/recursive-prime-number/recursive-prime-number.iml" filepath="$PROJECT_DIR$/state-3/recursive-prime-number/recursive-prime-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-2/sort-numbers/sort-numbers.iml" filepath="$PROJECT_DIR$/state-2/sort-numbers/sort-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/star-triangle/star-triangle.iml" filepath="$PROJECT_DIR$/state-3/star-triangle/star-triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/sum-digits-of-num/sum-digits-of-num.iml" filepath="$PROJECT_DIR$/state-3/sum-digits-of-num/sum-digits-of-num.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/sum-numbers-divided-by-3-4/sum-numbers-divided-by-3-4.iml" filepath="$PROJECT_DIR$/state-3/sum-numbers-divided-by-3-4/sum-numbers-divided-by-3-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/sum-odd-nums/sum-odd-nums.iml" filepath="$PROJECT_DIR$/state-3/sum-odd-nums/sum-odd-nums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stage-1/tax-calculator/tax-calculator.iml" filepath="$PROJECT_DIR$/stage-1/tax-calculator/tax-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stage-1/taximeter/taximeter.iml" filepath="$PROJECT_DIR$/stage-1/taximeter/taximeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-3/two-power/two-power.iml" filepath="$PROJECT_DIR$/state-3/two-power/two-power.iml" />
+    </modules>
+  </component>
+</project>
