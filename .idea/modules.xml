@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/java-me.iml" filepath="$PROJECT_DIR$/.idea/java-me.iml" />
       <module fileurl="file://$PROJECT_DIR$/state-2/leap-year/leap-year.iml" filepath="$PROJECT_DIR$/state-2/leap-year/leap-year.iml" />
       <module fileurl="file://$PROJECT_DIR$/state-2/login/login.iml" filepath="$PROJECT_DIR$/state-2/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stage-3/matrix-transpose/matrix-transpose.iml" filepath="$PROJECT_DIR$/stage-3/matrix-transpose/matrix-transpose.iml" />
       <module fileurl="file://$PROJECT_DIR$/state-3/min-max/min-max.iml" filepath="$PROJECT_DIR$/state-3/min-max/min-max.iml" />
       <module fileurl="file://$PROJECT_DIR$/state-3/palindrome/palindrome.iml" filepath="$PROJECT_DIR$/state-3/palindrome/palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/state-2/pass-class-status/pass-class-status.iml" filepath="$PROJECT_DIR$/state-2/pass-class-status/pass-class-status.iml" />
