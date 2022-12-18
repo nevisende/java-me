@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/state-2/login/login.iml" filepath="$PROJECT_DIR$/state-2/login/login.iml" />
       <module fileurl="file://$PROJECT_DIR$/state-3/matrix-transpose/matrix-transpose.iml" filepath="$PROJECT_DIR$/state-3/matrix-transpose/matrix-transpose.iml" />
       <module fileurl="file://$PROJECT_DIR$/state-3/min-max/min-max.iml" filepath="$PROJECT_DIR$/state-3/min-max/min-max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-4/mine-sweeper/mine-sweeper.iml" filepath="$PROJECT_DIR$/state-4/mine-sweeper/mine-sweeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/state-3/palindrome/palindrome.iml" filepath="$PROJECT_DIR$/state-3/palindrome/palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/state-3/palindrome-string/palindrome-string.iml" filepath="$PROJECT_DIR$/state-3/palindrome-string/palindrome-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/state-2/pass-class-status/pass-class-status.iml" filepath="$PROJECT_DIR$/state-2/pass-class-status/pass-class-status.iml" />
